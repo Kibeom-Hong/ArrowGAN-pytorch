@@ -1,6 +1,7 @@
 # ArrowGAN-pytorch
 ### Official Implementation of ArrowGAN : Learning to Generate Videos by Learning Arrow of Time (Neurocomputing)
 
+![ArrowGAN](https://user-images.githubusercontent.com/77425614/127087830-a799438e-392e-4ce0-b1a3-6c0ea9b6e02b.PNG)
 
 
 > ## ArrowGAN : Learning to Generate Videos by Learning Arrow of Time
